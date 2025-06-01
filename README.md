@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prajwal Mapari</h1>
-<h3 align="center">Machine Vision Intern at Sakar Robotics</h3>
+<h3 align="center">Student</h3>
 
 ---
 
 🎯 Passionate about Deep Learning and Computer Vision  
-🤖 Working on industrial AI systems at Sakar Vision  
+🤖 Working on industrial AI systems at Sakar Robotics
 🚀 Building real-time object detection and tracking pipelines  
 📈 Exploring MLOps, automation, and deployment on the cloud  
-📬 Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com)
+📬 Connect with me: [LinkedIn](https://linkedin.com/in/prajwalmapari)
 
 ---
 
