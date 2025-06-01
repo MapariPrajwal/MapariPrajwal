@@ -1,83 +1,82 @@
-<h1 align="center">Hi 👋, Prajwal here</h1>
-<h3 align="center">Student</h3>
+<h1 align="center">Hi 👋, I'm Prajwal</h1>
+<h3 align="center">Passionate about Deep Learning, Computer Vision & Automation</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MapariPrajwal&label=Profile%20views&color=0e75b6&style=flat" alt="MapariPrajwal" />
+</p>
 
 ---
 
-🎯 Passionate about Deep Learning and Computer Vision  
-🤖 Working on industrial AI systems at Sakar Robotics
-🚀 Building real-time object detection and tracking pipelines  
-📈 Exploring MLOps, automation, and deployment on the cloud  
-📬 Connect with me: [LinkedIn](https://linkedin.com/in/prajwalmapari)
+## 🧠 About Me
+
+- 🚀 Building AI models with TensorFlow and PyTorch  
+- 💬 Exploring machine learning pipelines, automation, and full-stack integration  
+- 🛠️ Focused on learning, building, and sharing  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies I Use
 
-### Languages  
-`Python` `C++` `Shell`  
+### Programming & Scripting  
+`Python` `C++` `Shell`
 
-### Deep Learning  
-`TensorFlow` `PyTorch` `Keras` `ONNX`  
+### Deep Learning & ML  
+`TensorFlow` `PyTorch` `Keras` `scikit-learn`
 
-### Computer Vision  
-`YOLOv8` `DeepSORT` `OpenCV` `LabelImg`  
-
-### ML Ops & DevOps  
-`Azure ML` `Docker` `Git` `FastAPI` `Streamlit`  
+### Tools & Frameworks  
+`Streamlit` `Flask` `OpenCV` `Docker` `Git` `FastAPI`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 [Sakar Vision AI](https://github.com/MapariPrajwal/sakar-vision-ai)
-> Real-time object detection and tracking system using YOLOv8 and DeepSORT for industrial automation.
+### 🔹 [Mech_Project](https://github.com/MapariPrajwal/Mech_Project)
+> Mechanical component detection using YOLO and OpenCV
 
-- Multi-class object detection for robotic arms
-- Integrated DeepSORT for live object tracking
-- Trained and deployed via Azure ML
-- Automated pipeline for data annotation and retraining
-
----
-
-### 🔹 [Ring Counter Vision System](https://github.com/MapariPrajwal/ring-counter-ai)
-> Automated ring-counting tool for production lines using image processing and deep learning.
-
-- OpenCV-based preprocessing and segmentation
-- Custom CNN model for count estimation
-- Real-time deployment and visualization
-- Error reduction from manual counting methods
+- Annotated dataset for industrial parts  
+- YOLOv8 for object detection  
+- Frame-by-frame analysis for production use  
+- Configurable for new component classes  
 
 ---
 
-### 🔹 [Azure ML Deployment Template](https://github.com/MapariPrajwal/azure-ml-deploy)
-> Template to train, optimize, and deploy deep learning models using Azure ML and ONNX.
+### 🔹 [ChatNew](https://github.com/MapariPrajwal/ChatNew)
+> A chatbot system with Streamlit interface and language model backend
 
-- Converts PyTorch models to ONNX
-- Deploys using Azure ML Inference Clusters
-- Served with FastAPI
-- CI/CD enabled via GitHub Actions
+- Streamlit-based frontend  
+- Language generation for user queries  
+- Backend integration with LangChain pipeline  
+- Easily extendable and customizable  
+
+---
+
+### 🔹 [WinePredictionModel](https://github.com/MapariPrajwal/WinePredictionModel)
+> ML model for predicting wine quality based on chemical attributes
+
+- Built with scikit-learn (Random Forest & SVM)  
+- Preprocessing, feature scaling, and training pipeline  
+- Visualized predictions using Streamlit  
+- Includes full source + web app interface  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MapariPrajwal&show_icons=true&theme=radical" alt="Prajwal's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MapariPrajwal&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MapariPrajwal&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapariPrajwal&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Let’s Collaborate
+## 📫 Connect with Me
 
-Open to internships, research projects, and collaborations in:
-
-- Computer Vision  
-- Deep Learning  
-- Robotics + AI  
-- MLOps & Automation  
-
-Feel free to check out my repos and connect!
+- 🔗 GitHub: [github.com/MapariPrajwal](https://github.com/MapariPrajwal)
+- 💬 Drop a star ⭐ if you found any repo helpful!
 
 ---
 
-⭐️ *Thank you for visiting my profile!*
+⭐️ *Thanks for stopping by!*
