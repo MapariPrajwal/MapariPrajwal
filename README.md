@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajwal</h1>
+<h1 align="center">Hi 👋, Prajwal here</h1>
 <h3 align="center">Passionate about Deep Learning, Computer Vision & Automation</h3>
 
 <p align="center">
@@ -7,6 +7,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=MapariPrajwal&theme=radical&hide_border=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=MapariPrajwal&show_icons=true&theme=radical&hide_border=true&count_private=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapariPrajwal&layout=compact&theme=radical&hide_border=true" /></td>
+    </tr>
+  </table>
+</p>
+
+---
 ## 🧠 About Me
 
 - 🚀 Building AI models with TensorFlow and PyTorch  
@@ -60,17 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MapariPrajwal&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MapariPrajwal&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapariPrajwal&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
