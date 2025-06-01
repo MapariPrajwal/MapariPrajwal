@@ -37,7 +37,10 @@
 `TensorFlow` `PyTorch` `Keras` `scikit-learn`
 
 ### Tools & Frameworks  
-`Streamlit` `Flask` `OpenCV` `Docker` `Git` `FastAPI`
+`Streamlit` `flwr` `Flask` `OpenCV` `Docker` `Git` `FastAPI`
+
+### Cloud Computing
+`Azure` `AWS` `Oracle`
 
 ---
 
@@ -77,7 +80,7 @@
 
 ## 📫 Connect with Me
 
-- 🔗 GitHub: [github.com/MapariPrajwal](https://github.com/MapariPrajwal)
+- 🔗 LinkedIn: [linkedin.com/prajwalmapari](https://linkedin.com/prajwalmapari)
 - 💬 Drop a star ⭐ if you found any repo helpful!
 
 ---
