@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Prajwal here</h1>
-<h3 align="center">Passionate about Deep Learning, Computer Vision & Automation</h3>
+<h3 align="center">Passionate about Deep Learning, Computer Vision & Robotics</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MapariPrajwal&label=Profile%20views&color=0e75b6&style=flat" alt="MapariPrajwal" />
@@ -80,7 +80,7 @@
 
 ## 📫 Connect with Me
 
-- 🔗 LinkedIn: [linkedin.com/prajwalmapari](https://linkedin.com/prajwalmapari)
+- 🔗 LinkedIn: [PrajwalMapari](https://www.linkedin.com/in/prajwalmapari/)
 - 💬 Drop a star ⭐ if you found any repo helpful!
 
 ---
